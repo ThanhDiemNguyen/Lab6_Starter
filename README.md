@@ -4,4 +4,4 @@
 1. Thanh Diem Nguyen 
 2. Harish Vasanth
 
-## Link to Github pages site [here]()
+## Link to Github pages site [here](https://thanhdiemnguyen.github.io/Lab6_Starter/)
